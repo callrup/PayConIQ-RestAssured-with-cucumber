@@ -10,7 +10,7 @@ Assignemnt on Rest API testing
 The project is a CUCUMBER BDD frameowrk based on Rest Assured ,Maven 
 # Link to Detail Test Documentation
 
-Tests are BDD-Cucumber based . Both Success and Fail  test cases are being  taken into consideration .
+Tests are BDD-Cucumber based . Both Success and Fail  test cases are being  taken into consideration .  Test can be run in any environmnet by chnaging the environment properties
 
 # Link to Payconiq API Automation Doc
 
@@ -30,6 +30,10 @@ If not please SET JAVA_HOME. For Mac users as :
 
  export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/jre
  1. Run using TestRunner
+
+# Test Recommendation for improvements
+ 1.JSON serialization and deserialization  could have been adapted
+ 2. Screenhots feature could have been added to improve
 
 
 # Circle CI Integration
