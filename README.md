@@ -6,8 +6,12 @@ Assignemnt on Rest API testing
 
 # Author : Rupam Chatterjee
 # Project Overview
+
 The project is a CUCUMBER BDD frameowrk based on Rest Assured ,Maven 
 # Link to Detail Test Documentation
+
+Tests are BDD-Cucumber based . Both Success and Fail  test cases are being  taken into consideration .
+
 # Link to Payconiq API Automation Doc
 
 To Run
@@ -27,9 +31,13 @@ If not please SET JAVA_HOME. For Mac users as :
  export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/jre
  1. Run using TestRunner
 
-https://app.circleci.com/pipelines/github/callrup/Payconiq_Rest-API-
+
+# Circle CI Integration
+
+https://app.circleci.com/pipelines/github/callrup/PayConIQ-RestAssured-with-cucumber
 
 
-![image](https://user-images.githubusercontent.com/35593071/143107832-bd36ad47-172d-4124-9987-2a69ba6e669c.png)
+![image](https://user-images.githubusercontent.com/35593071/143224308-9973e15c-c432-41df-bf2f-4938b0fecc1c.png)
+
 
 
