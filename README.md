@@ -10,7 +10,7 @@ Assignemnt on Rest API testing
 The project is a CUCUMBER BDD frameowrk based on Rest Assured ,Maven 
 # Link to Detail Test Documentation
 
-Tests are BDD-Cucumber based . Both Success and Fail  test cases are being  taken into consideration .  Test can be run in any environmnet by chnaging the environment properties
+Tests are BDD-Cucumber based . Both Success and Fail  test cases are being  taken into consideration .  Test can be run in any environmnet by changing the environment properties
 
 # Link to Payconiq API Automation Doc
 
